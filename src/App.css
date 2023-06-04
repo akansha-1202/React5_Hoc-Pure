@@ -1,0 +1,27 @@
+body{
+    background-color: antiquewhite;
+}
+.main-box{
+    display: flex;
+    flex-direction: column;
+}
+h2{
+    text-align: center;
+    margin-top: 80px;
+}
+.box{
+    width: 600px;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+}
+.counter{
+    width: 200px;
+    height: 100px;
+    border: 1px solid black;
+    text-align: center;
+    background-color: cornflowerblue;
+}
+.colour{
+    background-color: chartreuse;
+}
